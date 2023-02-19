@@ -2,7 +2,7 @@
 
 ## Required Homework/Task
 
-First, I started with understanding the Architecture of the Crudder App, the overview of how it looks like. Then, I proceeded to do the following;
+First, I started with understanding the Architecture of the Crudder App and the overview of how it looks like. Then, I proceeded to do the following;
 
 ### Recreating a Conceptual Diagram in Lucidchart
 
@@ -19,3 +19,6 @@ I also worked on recreating the Logical Diagram which includes the actual AWS se
 !['Logical Diagram](assets/Week%200-Cruddur%20Logical%20Architectural%20Diagram%20(1).png)
 
 [Lucidchart Link](https://lucid.app/lucidchart/c53bae53-3bdc-4476-85af-7086888c3eb6/edit?viewport_loc=-84%2C-45%2C2167%2C1013%2C0_0&invitationId=inv_4cea3189-2a56-4a4b-9e0a-0bce43e2aded)
+
+The next step I took was setting up my cloud environment by doing the following;
+
