@@ -1,10 +1,10 @@
 # Week 0 — Billing and Architecture
 
-## Required Homework
+## Required Homework/Task
 
 ### Recreating a Conceptual Diagram in Lucidchart
 
-I designed the conceptual diagram on Lucidchart; See image below:
+I created the conceptual diagram on Lucidchart; See image below:
 
 **Note to insert image**
 
