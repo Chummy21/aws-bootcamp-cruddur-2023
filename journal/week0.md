@@ -31,6 +31,7 @@ The next step I took was setting up my cloud environment by doing the following;
  ### Create an Admin User
  
  I created an Admin User, added the user to a group, assigned permission, enabled multifactor authentication and also granted user administrative access as shown below;
+ 
  ![Create an Admin User](assets/Week%200-Image%20of%20Admin%20User.PNG)
 
 ### Create a Budget 
@@ -40,4 +41,10 @@ I created a zero budget for $1 because I cannot afford any kind of spend. I did 
 ![Create a Budget](assets/Week%200-Create%20a%20budget.PNG)
 
 ### Create a Billing Alarm
+
+I also setup a billing alarm using the Advanced option (credit) incase I get some credits, to alert me when I exceed my actual spend through email notification.
+
+![Create a Billing Alarm](assets/Week%200-Create%20a%20Billing%20Alarm.PNG)
+
+
 
