@@ -39,3 +39,5 @@ I created a zero budget for $1 because I cannot afford any kind of spend. I did 
 
 ![Create a Budget](assets/Week%200-Create%20a%20budget.PNG)
 
+### Create a Billing Alarm
+
