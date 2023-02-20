@@ -22,8 +22,10 @@ I also worked on recreating the Logical Diagram which includes the actual AWS se
 
 The next step I took was setting up my cloud environment by doing the following;
 
- I installed the AWS CLI via the gitpod environment and confirmed it using the 'aws sts get-caller-identity' as shown below; 
+### Installed AWS CLI
+
+ I installed the AWS CLI via the gitpod environment and confirmed it using the 'aws sts get-caller-identity' command as shown below; 
  
- ![AWS CLI](assets/
+ ![AWS CLI](assets/Week%200-Configured%20the%20AWS%20CLI%20Via%20gitpod%20Environment.PNG)
 
 ### Create a Budget and Billing Alarm
