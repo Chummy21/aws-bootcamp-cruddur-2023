@@ -46,5 +46,7 @@ I also setup a billing alarm using the Advanced option (credit) incase I get som
 
 ![Create a Billing Alarm](assets/Week%200-Create%20a%20Billing%20Alarm.PNG)
 
+### I watched Chirag's week 0 spend considerations
 
+I learnt how to track and monitor spend and how to utilize the free tier. I also learnt how to manage billing alert.
 
