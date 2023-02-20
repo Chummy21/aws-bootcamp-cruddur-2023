@@ -27,5 +27,15 @@ The next step I took was setting up my cloud environment by doing the following;
  I installed the AWS CLI via the gitpod environment and confirmed it using the 'aws sts get-caller-identity' command as shown below; 
  
  ![AWS CLI](assets/Week%200-Configured%20the%20AWS%20CLI%20Via%20gitpod%20Environment.PNG)
+ 
+ ### Create an Admin User
+ 
+ I created an Admin User, added the user to a group, assigned permission, enabled multifactor authentication and also granted user administrative access as shown below;
+ ![Create an Admin User](assets/Week%200-Image%20of%20Admin%20User.PNG)
 
-### Create a Budget and Billing Alarm
+### Create a Budget 
+
+I created a zero budget for $1 because I cannot afford any kind of spend. I did not create a second budget because I was concerned of budget spending going over the two budget free limit.
+
+![Create a Budget](assets/Week%200-Create%20a%20budget.PNG)
+
