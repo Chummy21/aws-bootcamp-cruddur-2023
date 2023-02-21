@@ -22,6 +22,13 @@ I also worked on recreating the Logical Diagram which includes the actual AWS se
 
 The next step I took was setting up my cloud environment by doing the following;
 
+### Create and Generate AWS Credentials
+
+I created an generated AWS credentialsfor IAM admin user and also assigned admin access as shown below;
+
+![Generate AWS Credentials](assets/Week%200-Generate%20credentials.PNG)
+
+
 ### Installed AWS CLI
 
  I installed the AWS CLI via the gitpod environment and confirmed it using the 'aws sts get-caller-identity' command as shown below; 
