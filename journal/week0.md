@@ -28,7 +28,7 @@ I created an generated AWS credentials for IAM admin user and also assigned admi
 
 ### Installed AWS CLI
 
- I installed the AWS CLI via the gitpod environment and confirmed it using the 'aws sts get-caller-identity' command as shown below; 
+ I configured the AWS CLI in Gitpod and added AWS Access Key and secret Access key to the env variables while I stored them in gitpod using the gp command. I added code to the gitpod.yml file to enable all my configuration load automatically when I log in again as shown below; 
  
  ![AWS CLI](assets/Week%200-Configured%20the%20AWS%20CLI%20Via%20gitpod%20Environment.PNG)
  
