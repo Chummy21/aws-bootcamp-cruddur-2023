@@ -1,8 +1,8 @@
 # Week 0 — Billing and Architecture
 
-## Required Homework/Task
+## Required Homework/Task - Building a Micro-Blogging Platform Called Cruddur
 
-First, I started with understanding the Architecture of the Crudder App and the overview of how it looks like. Then, I proceeded to do the following;
+First, I started with understanding the Architecture of the Crudder App, its requirements, features, target audience, cost and the general overview of how the app looks like. Then, I proceeded to do the following;
 
 ### Recreating a Conceptual Diagram in Lucidchart
 
