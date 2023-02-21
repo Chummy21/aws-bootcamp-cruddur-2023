@@ -6,7 +6,7 @@ First, I started with understanding the Architecture of the Crudder App, its req
 
 ### Napkin design of the cruddur app
 
-I designed on a napkin a conceptual diagram of the cruddur micro blogging app
+I designed on a napkin, a conceptual diagram of the cruddur micro blogging app
 
 !['Napkin Design'](assets/Week%200-%20Napkin%20design.jpg)
 
