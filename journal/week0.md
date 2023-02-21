@@ -59,7 +59,7 @@ I also setup a billing alarm using the Advanced option (credit) incase I get som
 
 ### I watched Chirag's week 0 spend considerations
 
-I learnt how to track and monitor spend and how to utilize the free tier. I also learnt how to manage billing alert.
+I learned how to track and monitor spend and how to utilize the free tier. I also learnt how to manage billing alert.
 
 ### Homework Challenges
 '
