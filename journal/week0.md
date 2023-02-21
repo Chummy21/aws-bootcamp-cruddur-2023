@@ -32,6 +32,8 @@ I created an generated AWS credentials for IAM admin user and also assigned admi
  
  ![AWS CLI](assets/Week%200-Configured%20the%20AWS%20CLI%20Via%20gitpod%20Environment.PNG)
  
+ ![Gitpod Yml fle](assets/Week%200-Gitpod%20yml.PNG)
+ 
  ### Create an Admin User
  
  I created an Admin User, added the user to a group, assigned permission, enabled multifactor authentication and also granted user administrative access as shown below;
