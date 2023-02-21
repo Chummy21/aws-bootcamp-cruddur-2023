@@ -20,6 +20,12 @@ I also worked on recreating the Logical Diagram which includes the actual AWS se
 
 [Lucidchart Link](https://lucid.app/lucidchart/c53bae53-3bdc-4476-85af-7086888c3eb6/edit?viewport_loc=-84%2C-45%2C2167%2C1013%2C0_0&invitationId=inv_4cea3189-2a56-4a4b-9e0a-0bce43e2aded)
 
+### Napkin design of the cruddur app
+
+I also created a napkin design of the cruddur app
+
+!['Napkin Design'](assets/Week%200-%20Napkin%20design.jpg)
+
 The next step I took was setting up my cloud environment by doing the following;
 
 ### Create and Generate AWS Credentials
